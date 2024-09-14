@@ -9,8 +9,7 @@ This project provides a way to find the most relevant chunks of text based on a 
 - [Usage](#usage)
 - [Example](#example)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
